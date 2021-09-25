@@ -36,9 +36,9 @@
     "typescript": "4.4.3"
   },
   "dependencies": {
-    "@aws-sdk/client-dynamodb": "3.32.0",
-    "@aws-sdk/client-lambda": "3.32.0",
-    "@aws-sdk/util-dynamodb": "3.32.0",
+    "@aws-sdk/client-dynamodb": "3.34.0",
+    "@aws-sdk/client-lambda": "3.34.0",
+    "@aws-sdk/util-dynamodb": "3.34.0",
     "uuid": "8.3.2"
   }
 }
