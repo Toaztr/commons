@@ -40,7 +40,7 @@
     "@aws-sdk/client-dynamodb": "3.36.0",
     "@aws-sdk/client-lambda": "3.36.0",
     "@aws-sdk/util-dynamodb": "3.36.0",
-    "axios": "0.22.0",
+    "axios": "0.23.0",
     "axios-retry": "3.2.0",
     "uuid": "8.3.2"
   }
