@@ -151,8 +151,8 @@ export class HttpRequest {
             });
             (subSegment as any).http = { 
                 request: {
-                    method: this.event.requestContext.http.method,
-                    url: this.event.requestContext.http.path
+                    method: this.event.requestContext.http?.method,
+                    url: this.event.requestContext.http?.path
                 },
                 response: {
                     status: this.resp.statusCode
