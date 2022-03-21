@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.32.6](https://www.github.com/Toaztr/commons/compare/v1.32.5...v1.32.6) (2022-03-21)
+
+
+### Bug Fixes
+
+* optional http ([0d0dc14](https://www.github.com/Toaztr/commons/commit/0d0dc14d994eebd35472b5d5fcec311443cf6475))
+
 ### [1.32.5](https://www.github.com/Toaztr/commons/compare/v1.32.4...v1.32.5) (2022-03-06)
 
 
